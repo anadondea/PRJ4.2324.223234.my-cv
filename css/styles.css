@@ -49,3 +49,9 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.fw-bolder { 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.flex-row-reverse {
+	
+}
