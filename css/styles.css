@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #7f9e9a;
+	background-color: #729b8e;
 }
 
 /* Styles for lists in the document */
@@ -69,12 +69,11 @@ color: #03201c
 
 .fst-italic {
 font-family: cursive;
-color: #03201c;
+color: #496b47;
 }
 
 .bg-warning {
 background-color: #c4eee7 !important;
-border-color: black !important;
 }
 
 .language-level {
@@ -84,3 +83,4 @@ border-color: black !important;
 .bg-custom {
 	background-color: #135f55;
 }
+
