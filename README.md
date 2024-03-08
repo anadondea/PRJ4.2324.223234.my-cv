@@ -25,3 +25,8 @@ In order to pass the individual assessment, you must modify the following elemen
 
 - Emojis: Twemoji by Twitter - https://twemoji.twitter.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
 - Social icons: FontAwesome - https://fontawesome.com/ - Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0)
+- Professional Experience icons: FreePik - https://www.freepik.com/
+- School Logo: https://www.facebook.com/CN.IonMinulescu/ 
+
+## Link to my CV: 
+https://anadondea.github.io/PRJ4.2324.223234_.my-cv/ 
