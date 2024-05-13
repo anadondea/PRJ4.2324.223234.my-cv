@@ -50,17 +50,18 @@ body {
 	flex-basis: 1.4em;
 }
 
-.fw-bolder { 
+.my-name-title { 
 font-family: "Unbounded", 'Arial Narrow', Arial, sans-serif;
 font-size: 70px;
 color: #021513
 }
 
-.mini-headline {
+.custom-class-zaza {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-color: #075d5d;
+color: white;
 font-weight: bolder;
 font-style: italic;
+background-color:#12544c;
 }
 
 .fst-italic-tagline {
